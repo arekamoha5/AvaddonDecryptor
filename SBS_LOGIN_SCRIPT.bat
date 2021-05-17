@@ -1,0 +1,1 @@
+\\MAINSERVER\Clients\Setup\setup.exe /s MAINSERVER
